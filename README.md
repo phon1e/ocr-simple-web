@@ -1,8 +1,9 @@
-# ocr-api-simple web app 
+# ocr-api-simple web app (for thai/en lang.)
 
 # using Typhoon OCR
 
 A single-file browser tool to extract raw text from images and PDFs using **Typhoon OCR**.
+
 
 No install. No server. Just open `index.html`.
 
